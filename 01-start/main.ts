@@ -25,6 +25,6 @@ server.tool(
   }
 );
 
-
+// me quede en el minuto 57:57
 const transport = new StdioServerTransport()
 await server.connect(transport)
